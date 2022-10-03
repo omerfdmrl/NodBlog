@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "D:\\xampp\\htdocs\\fenomedya\\server\\log\\user\\631c926214afd56a2743be81\\.6b80d536bf99d2119eafce146809545c1e645f37-audit.json",
+    "files": [
+        {
+            "date": 1662816866239,
+            "name": "D:\\xampp\\htdocs\\fenomedya\\server\\log\\user\\631c926214afd56a2743be81\\2022-09-10-results.log",
+            "hash": "7e8047bcbf383e9853462c750f8889ac47a32d826d81916a601b0b52ddb25ab3"
+        }
+    ],
+    "hashType": "sha256"
+}

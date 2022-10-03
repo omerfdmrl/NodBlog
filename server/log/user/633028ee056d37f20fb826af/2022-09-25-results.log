@@ -1,0 +1,3 @@
+2022-09-25 13:09:50[logger.service.js] info: "Register"
+2022-09-25 13:09:55[logger.service.js] info: "Login"
+2022-09-25 13:12:56[logger.service.js] info: "Logout"

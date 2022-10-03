@@ -1,0 +1,80 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "D:\\xampp\\htdocs\\yue\\server\\log\\user\\631c95c909c237d8349f8d06\\.3ee627f8edb738c5cc9244aa7ea2924b7cfbd13c-audit.json",
+    "files": [
+        {
+            "date": 1663346798546,
+            "name": "D:\\xampp\\htdocs\\yue\\server\\log\\user\\631c95c909c237d8349f8d06\\2022-09-16-results.log",
+            "hash": "d319c04260029b4e84e0892b4754582cb1bf7403455c9d9a1526d1dd1274f208"
+        },
+        {
+            "date": 1663436224897,
+            "name": "D:\\xampp\\htdocs\\yue\\server\\log\\user\\631c95c909c237d8349f8d06\\2022-09-17-results.log",
+            "hash": "a8aa0b5635bb0954759d87684f940bd93a8182eef7d6207aeed5869c9256a25a"
+        },
+        {
+            "date": 1663493007911,
+            "name": "D:\\xampp\\htdocs\\yue\\server\\log\\user\\631c95c909c237d8349f8d06\\2022-09-18-results.log",
+            "hash": "e5cd5ffcd0550427329cfb2d82a2abaed5c65a5fcfcb62b06c1646e41984ee01"
+        },
+        {
+            "date": 1663579668738,
+            "name": "D:\\xampp\\htdocs\\yue\\server\\log\\user\\631c95c909c237d8349f8d06\\2022-09-19-results.log",
+            "hash": "6e6512b8a327fbc5d314c94d63e72ff1a25ec87c160ec0814b614185be2c81c7"
+        },
+        {
+            "date": 1663673120374,
+            "name": "D:\\xampp\\htdocs\\yue\\server\\log\\user\\631c95c909c237d8349f8d06\\2022-09-20-results.log",
+            "hash": "da83dbf4ba8e1502ee2bca33b0bcd54a51937b52da110eecd19a4ecbe589a6f2"
+        },
+        {
+            "date": 1663779230702,
+            "name": "D:\\xampp\\htdocs\\yue\\server\\log\\user\\631c95c909c237d8349f8d06\\2022-09-21-results.log",
+            "hash": "49b2082f70e9e661cf6d8e1aa664e33dd32670b1e1e376dd132a13a304fd0778"
+        },
+        {
+            "date": 1663865692636,
+            "name": "D:\\xampp\\htdocs\\yue\\server\\log\\user\\631c95c909c237d8349f8d06\\2022-09-22-results.log",
+            "hash": "43b17b94d5da8cbfb8ee69f878372f31964efcfde6aaedea4d4e536b4bf5b383"
+        },
+        {
+            "date": 1663953887082,
+            "name": "D:\\xampp\\htdocs\\yue\\server\\log\\user\\631c95c909c237d8349f8d06\\2022-09-23-results.log",
+            "hash": "010dbec40534a79d692e5678980e52c22dcdeee62c435813fae9ed4b5f7ed210"
+        },
+        {
+            "date": 1663991713776,
+            "name": "D:\\xampp\\htdocs\\yue\\server\\log\\user\\631c95c909c237d8349f8d06\\2022-09-24-results.log",
+            "hash": "cb6873614d38af0e6a14d3f299707230e3363f1384adab2af6e2e98e6365eb0a"
+        },
+        {
+            "date": 1664100151809,
+            "name": "D:\\xampp\\htdocs\\yue\\server\\log\\user\\631c95c909c237d8349f8d06\\2022-09-25-results.log",
+            "hash": "cd88742e3338d6fbe07217f2ade1941df5b84c6fffd8e66f0e0dcd52c4e6122b"
+        },
+        {
+            "date": 1664218488071,
+            "name": "D:\\xampp\\htdocs\\yue\\server\\log\\user\\631c95c909c237d8349f8d06\\2022-09-26-results.log",
+            "hash": "0d2a2c4f0f8f034dac4f8d14c1814d5d3d2a7bdb425d25a2568738e81bbc7927"
+        },
+        {
+            "date": 1664383285343,
+            "name": "D:\\xampp\\htdocs\\yue\\server\\log\\user\\631c95c909c237d8349f8d06\\2022-09-28-results.log",
+            "hash": "f4efe3b5f1d49a5946f283c385f80f72ea75f04d05a4e5217c6e975a4872349f"
+        },
+        {
+            "date": 1664474491054,
+            "name": "D:\\xampp\\htdocs\\yue\\server\\log\\user\\631c95c909c237d8349f8d06\\2022-09-29-results.log",
+            "hash": "bb4e3396be08d6742882759a61d436fa972dc323b9de3a05afdc33e3e14e6448"
+        },
+        {
+            "date": 1664569323091,
+            "name": "D:\\xampp\\htdocs\\yue\\server\\log\\user\\631c95c909c237d8349f8d06\\2022-09-30-results.log",
+            "hash": "4398040515cc7f042967c6b113cac29e3a19e48cc8033b5bf8d400bc3eec45b2"
+        }
+    ],
+    "hashType": "sha256"
+}

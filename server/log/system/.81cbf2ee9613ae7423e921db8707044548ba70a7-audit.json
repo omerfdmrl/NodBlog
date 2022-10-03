@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "D:\\xampp\\htdocs\\yue\\server\\log\\system\\.81cbf2ee9613ae7423e921db8707044548ba70a7-audit.json",
+    "files": [
+        {
+            "date": 1664597675116,
+            "name": "D:\\xampp\\htdocs\\yue\\server\\log\\system\\2022-10-results.log",
+            "hash": "cbd80a84fc5a327eeec5c0cced78942fc7ff108838aae374e87f8368d8d7b063"
+        }
+    ],
+    "hashType": "sha256"
+}

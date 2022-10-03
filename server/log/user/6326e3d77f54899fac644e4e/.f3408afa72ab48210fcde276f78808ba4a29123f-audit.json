@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "D:\\xampp\\htdocs\\yue\\server\\log\\user\\6326e3d77f54899fac644e4e\\.f3408afa72ab48210fcde276f78808ba4a29123f-audit.json",
+    "files": [
+        {
+            "date": 1663493079653,
+            "name": "D:\\xampp\\htdocs\\yue\\server\\log\\user\\6326e3d77f54899fac644e4e\\2022-09-18-results.log",
+            "hash": "b0b1f8e744561737549284482f9cd5cb315454e15c644797faa645c473f1009f"
+        },
+        {
+            "date": 1663996859183,
+            "name": "D:\\xampp\\htdocs\\yue\\server\\log\\user\\6326e3d77f54899fac644e4e\\2022-09-24-results.log",
+            "hash": "867b9a02f6b109455ce63799a44dbb23436884413e263b39e24c4fdd20aad475"
+        },
+        {
+            "date": 1664100157040,
+            "name": "D:\\xampp\\htdocs\\yue\\server\\log\\user\\6326e3d77f54899fac644e4e\\2022-09-25-results.log",
+            "hash": "b15572c97b0358341cf79798572632c16588ef8266814bca8ac44962902c63b9"
+        }
+    ],
+    "hashType": "sha256"
+}

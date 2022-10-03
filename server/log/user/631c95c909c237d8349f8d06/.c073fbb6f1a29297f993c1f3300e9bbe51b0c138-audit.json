@@ -1,0 +1,40 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "D:\\xampp\\htdocs\\fenomedya\\server\\log\\user\\631c95c909c237d8349f8d06\\.c073fbb6f1a29297f993c1f3300e9bbe51b0c138-audit.json",
+    "files": [
+        {
+            "date": 1662817737754,
+            "name": "D:\\xampp\\htdocs\\fenomedya\\server\\log\\user\\631c95c909c237d8349f8d06\\2022-09-10-results.log",
+            "hash": "c81d3c247438effb761c69579ee2d78000e06c4d41c54b6560273789b868a89b"
+        },
+        {
+            "date": 1662875622360,
+            "name": "D:\\xampp\\htdocs\\fenomedya\\server\\log\\user\\631c95c909c237d8349f8d06\\2022-09-11-results.log",
+            "hash": "39f1ebf1e7f90072fb6800b4c903f833e7839a72f4b1db1ef8b65985fd7f35b3"
+        },
+        {
+            "date": 1662987552177,
+            "name": "D:\\xampp\\htdocs\\fenomedya\\server\\log\\user\\631c95c909c237d8349f8d06\\2022-09-12-results.log",
+            "hash": "1aab59a6c6b5a904ed38aa2dd116c6c75935b43896a08dfad21c54fe6ec08e7c"
+        },
+        {
+            "date": 1663081660271,
+            "name": "D:\\xampp\\htdocs\\fenomedya\\server\\log\\user\\631c95c909c237d8349f8d06\\2022-09-13-results.log",
+            "hash": "29f9c03cf5d8ea24c9411777ed0a9af886b1e421f58a28af7356f2b3793db990"
+        },
+        {
+            "date": 1663169717818,
+            "name": "D:\\xampp\\htdocs\\fenomedya\\server\\log\\user\\631c95c909c237d8349f8d06\\2022-09-14-results.log",
+            "hash": "568ff08c50feecbbe4fee2638b41b9e6bc8c6a38e7070bf068cf65b358fced7d"
+        },
+        {
+            "date": 1663256138510,
+            "name": "D:\\xampp\\htdocs\\fenomedya\\server\\log\\user\\631c95c909c237d8349f8d06\\2022-09-15-results.log",
+            "hash": "47265e3c4a40d11c23d2c054fab9e28bc7f43534f06728d5fd56ea8200dbfc7c"
+        }
+    ],
+    "hashType": "sha256"
+}
