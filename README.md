@@ -145,6 +145,7 @@ There is simple steps to deploy project.
 ## Roadmap
 
 - [x] Recommendation Engine
+- [x] Role Based System
   - [x] Entegred to System
   - [x] Editable from Admin Panel
 - [x] Better performance
@@ -156,6 +157,9 @@ There is simple steps to deploy project.
 - [x] Fast Way to Write Post
 - [ ] Auto group with conditions
 - [ ] Dashboard
+- [ ] Easy Admin Panel
+  - [ ] Menu Builder
+  - [ ] Role Editor
 
 See the [open issues](https://github.com/omerfdmrl/NodBlog/issues) for a full list of proposed features (and known issues).
 
