@@ -77,7 +77,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](screenshots/1.png)
+![NodBlog Screen Shot](screenshots/1.png)
 
 
 
