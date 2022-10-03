@@ -96,14 +96,23 @@ Of course, this project may not meet all your needs. If you submit your requests
 ## ScreenShots
 <details>
   <summary>Click me to see screenshots</summary>
+  
   ![Home](screenshots/1.png)
+  
   ![SearchBar](screenshots/2.png)
+  
   ![Admin Settings](screenshots/2.png)
+  
   ![Post Edit](screenshots/3.png)
+  
   ![Single Post](screenshots/4.png)
+  
   ![Post Comments](screenshots/7.png)
+  
   ![Single Post (After Scroll)](screenshots/5.png)
+  
   ![Tag List](screenshots/6.png)
+  
 </details>
 
 ### Built With
