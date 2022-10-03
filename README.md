@@ -76,7 +76,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](screenshots/1.png?raw=true)
+[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/omerfdmrl/NodBlog/main/screenshots/1.png)
+
+
 
 There are many great blog scripts avaliable. NodBlog is one of them but we believe that we carry it much further with innovations.
 
