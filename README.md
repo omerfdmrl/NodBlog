@@ -145,6 +145,7 @@ There is simple steps to deploy project.
 ## Roadmap
 
 - [x] Recommendation Engine
+- [x] Offline Usage 
 - [x] Role Based System
   - [x] Entegred to System
   - [x] Editable from Admin Panel
