@@ -233,5 +233,5 @@ Project Link: [https://github.com/omerfdmrl/NodBlog](https://github.com/omerfdmr
 [JQuery-url]: https://jquery.com 
 [MongoDb]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [MongoDb-url]: https://www.mongodb.com
-[Redis]: https://img.shields.io/badge/Redis-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[Redis]: https://img.shields.io/badge/Redis-0769AD?style=for-the-badge&logo=nodejs&logoColor=red
 [Redis-url]: https://redis.io
