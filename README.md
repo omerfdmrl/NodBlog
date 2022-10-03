@@ -117,7 +117,7 @@ Of course, this project may not meet all your needs. If you submit your requests
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap this project.
+This frameworks/libraries used to bootstrap this project.
 
 * [![Node][Node.js]][Node-url]
 * [![Vue][Vue.js]][Vue-url]
