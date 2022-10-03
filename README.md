@@ -146,6 +146,7 @@ There is simple steps to deploy project.
 
 - [x] Recommendation Engine
 - [x] Offline Usage 
+- [x] Login As User
 - [x] Role Based System
   - [x] Entegred to System
   - [x] Editable from Admin Panel
