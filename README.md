@@ -57,6 +57,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    <li><a href="#screenshots">ScreenShots</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -76,7 +77,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/omerfdmrl/NodBlog/main/screenshots/1.png)
+[![Product Name Screen Shot][product-screenshot]](screenshots/1.png)
 
 
 
@@ -92,7 +93,18 @@ Of course, this project may not meet all your needs. If you submit your requests
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+## ScreenShots
+<details>
+  <summary>Click me to see screenshots</summary>
+  ![Home](screenshots/1.png)
+  ![SearchBar](screenshots/2.png)
+  ![Admin Settings](screenshots/2.png)
+  ![Post Edit](screenshots/3.png)
+  ![Single Post](screenshots/4.png)
+  ![Post Comments](screenshots/7.png)
+  ![Single Post (After Scroll)](screenshots/5.png)
+  ![Tag List](screenshots/6.png)
+</details>
 
 ### Built With
 
