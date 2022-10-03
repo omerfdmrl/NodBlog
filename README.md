@@ -113,6 +113,10 @@ Of course, this project may not meet all your needs. If you submit your requests
   
   ![Tag List](screenshots/6.png)
   
+  ![Offline Home Page](screenshots/9.png)
+  
+  ![Offline Single Post Page](screenshots/10.png)
+  
 </details>
 
 ### Built With
