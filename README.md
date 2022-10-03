@@ -154,8 +154,8 @@ There is simple steps to deploy project.
 - [x] Redis Integration
 - [x] Better Panel for Admin & User
 - [x] Fast Way to Write Post
-- [] Auto group with conditions
-- [] Dashboard
+- [ ] Auto group with conditions
+- [ ] Dashboard
 
 See the [open issues](https://github.com/omerfdmrl/NodBlog/issues) for a full list of proposed features (and known issues).
 
@@ -233,5 +233,5 @@ Project Link: [https://github.com/omerfdmrl/NodBlog](https://github.com/omerfdmr
 [JQuery-url]: https://jquery.com 
 [MongoDb]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [MongoDb-url]: https://www.mongodb.com
-[Redis]: https://img.shields.io/badge/redisre-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[Redis]: https://img.shields.io/badge/Redis-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [Redis-url]: https://redis.io
