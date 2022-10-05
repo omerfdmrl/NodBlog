@@ -36,8 +36,6 @@
   <p align="center">
     An awesome blog to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/othneildrew/NodBlog/issues">Report Bug</a>
     ·
