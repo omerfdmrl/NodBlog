@@ -204,7 +204,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@omerfdmrl](https://twitter.com/omerfdmrl) - omerfdmrl@gmail.com
+Ömer Faruk Demirel- [@omerfdmrl](https://instagram.com/omerfdmrl)
 
 Project Link: [https://github.com/omerfdmrl/NodBlog](https://github.com/omerfdmrl/NodBlog)
 
